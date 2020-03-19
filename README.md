@@ -6,4 +6,4 @@ to join our Slack, plus more information about OpenMaine.)
 
 
 
-E.g., Fork this and create a Maine version? https://codeforphilly.org/blog/call_to_action_-_chime
+E.g., Fork this and create a Maine version? https://codeforphilly.org/blog/call_to_action_-_chime ... or just contribute to that effort?
